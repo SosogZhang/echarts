@@ -1,3 +1,3 @@
 # echarts
-Test for Github
+Test for Github. 
 My name's Sosog Zhang, I love music.
